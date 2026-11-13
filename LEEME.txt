@@ -1,0 +1,12 @@
+INVITACION XV - MAITE ANAHI
+
+Estructura:
+  xv-maite-anahi/
+    index.html     <- la invitacion (abrela con doble clic o con Live Server en VS Code)
+    fotos/         <- coloca aqui tus fotos (ver fotos/LEEME.txt)
+
+Para personalizar abre index.html en VS Code y busca el bloque
+"CONFIGURACION: edita solo esta parte" (cerca del final del archivo):
+  - WA_NUMBER : tu numero de WhatsApp para recibir las confirmaciones
+  - LOC       : enlaces de Google Maps de la misa y la recepcion
+  - HERO_PHOTO y PHOTOS : rutas de las fotos
